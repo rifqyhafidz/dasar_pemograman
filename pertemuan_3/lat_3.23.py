@@ -1,0 +1,15 @@
+print("\n                 ================================")
+print("                         TOKO MAINAN ANAK")
+print("                 ================================")
+
+nama_pembeli = input("Masukan nama pembeli : ")
+kode_mainan = input("Masukan kode mainan : ")
+harga = int(input("Masukan Harga : "))
+jumlah_beli = int(input("Masukan jumlah beli : "))
+total = harga * jumlah_beli
+print("==================================================")
+print(f"Nama pembeli : {nama_pembeli}")
+print(f"Kode kue     : {kode_mainan}")
+print(f"Harga        : {harga}")
+print(f"Jumlah beli  : {jumlah_beli}")
+print(f"Total        : {total}")
