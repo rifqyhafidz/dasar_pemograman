@@ -1,0 +1,5 @@
+print("===================================")
+print("Nama : Rifqy Hafidz")
+print("Kelas : 15.1A,11")
+print("Jurusan : informatika")
+print("===================================")
