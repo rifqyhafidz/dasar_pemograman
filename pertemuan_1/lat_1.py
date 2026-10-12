@@ -1,5 +1,6 @@
 print("===================================")
 print("Nama : Rifqy Hafidz")
+print("Nim : 15240072")
 print("Kelas : 15.1A,11")
 print("Jurusan : informatika")
 print("===================================")
